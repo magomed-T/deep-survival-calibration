@@ -26,5 +26,5 @@ implications for medical decision-making.
 MIMIC-IV (ICU patient data)
 
 ## Status
-Project initialization
+8 months progress
 
